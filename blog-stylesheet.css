@@ -1,0 +1,38 @@
+html {
+  background-color: #ffffff;
+  color: black;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color:red;
+}
+
+#heading {
+  text-align: center;
+  font-weight: bold;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid-black;
+}
+
+#blogText {
+  text-align: left;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid-black;
+}
+
+#blogCitations {
+  text-align: left;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid-black;
+  font-size: .8em;
+}
